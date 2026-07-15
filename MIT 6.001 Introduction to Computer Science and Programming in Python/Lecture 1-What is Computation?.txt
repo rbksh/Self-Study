@@ -1,0 +1,5 @@
+contents:
+1. what is computation?
+2. python basics
+3. mathematical operations
+4. python variables and data types
