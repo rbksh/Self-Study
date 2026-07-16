@@ -11,6 +11,6 @@ print("value of b: ", b)
 
 c = (a+b)/2
 
-for i in range(1,n):
-    if type(c)
-    i+=1
+# for i in range(1,n):
+#     if type(c)
+#     i+=1
