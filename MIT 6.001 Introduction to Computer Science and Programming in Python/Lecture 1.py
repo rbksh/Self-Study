@@ -1,6 +1,8 @@
 #trying something new
 
 import random
+import os 
+import time
 a = random.randint(3,9)
 b = random.randint(3,9)
 n=int(input("please enter the number of repetitions: "))
