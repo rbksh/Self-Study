@@ -1,6 +1,8 @@
 #trying something new
 
-import random
+from random import *
+import os
+import time
 
 a = random.randint(3,9)
 b = random.randint(3,9)
@@ -15,3 +17,5 @@ c = (a+b)/2
 # for i in range(1,n):
 #     if type(c)
 #     i+=1
+
+print(type(1))
