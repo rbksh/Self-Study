@@ -1,6 +1,7 @@
 #trying something new
 
 from random import *
+from math import *
 import os
 import time
 
@@ -14,8 +15,12 @@ print("value of b: ", b)
 
 c = (a+b)/2
 
-# for i in range(1,n):
-#     if type(c)
-#     i+=1
+for i in range(2,n):
+    if n%i==0:
+        print("not a prime number")
+    else:
+        print("prime number")
+    i+=1
 
 print(type(1))
+print(type(3.14))
